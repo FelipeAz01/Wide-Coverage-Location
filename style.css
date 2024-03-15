@@ -50,19 +50,25 @@ header {
 }
 
 .section-left {
-    margin: 163px 0 0 123px;
+    margin: 100px 0 0 123px;
     display: inline-block;
 
+}
+
+img{
+    height: 380px;
+    margin: auto;
+    display: block;     
 }
 
 .section-right{
     display: inline-block;
-    margin-left: 96px;
+    margin-left: 145px;
 }
 
 h1 {
     color: #161A49;
-    font-size: 62px;
+    font-size: 50px;
     font-weight: 700;
     line-height: 82px;
     width: 582px;
@@ -104,6 +110,44 @@ button:active {
 }
 
 
+
+
+
+
+
+
+
+@media screen and (max-width: 1280px) {
+    img{
+        height: 355px;
+        margin: auto;
+        display: block;     
+    }
+
+    .section-left {
+        margin: 150px 0 0 123px;
+        display: inline-block;
+    
+    }
+
+}
+
+@media screen and (max-width: 1194px) {
+    img{
+        height: 285px;
+        margin: auto;
+        display: block;     
+    }
+
+    .section-left {
+        margin: 190px 0 0 123px;
+        display: inline-block;
+    
+    }
+
+}
+
+
 @media screen and (max-width: 1023px) {
     header :not(.button-header){
     display: none;
@@ -115,19 +159,20 @@ button:active {
         height: 31px;
         position: absolute;
         right: 0%;
-        margin-right: 10px;
+        margin-right: 25px;
     }
 
     .section-left{
-        width: 90%;
-        height: 35vh;
+        width: 75%;
+        height: 45vh;
         position: absolute;
         bottom: 0;
-        margin-bottom: 15px;
+        margin-bottom: 16px;
+    
     }
 
     img{
-        max-width: 312px;
+        max-width: 355px;
         height: 288px;
         margin: auto;
         display: block;     
@@ -188,6 +233,14 @@ button:active {
 .button-header {
     top:2%
 
+}
+
+img{
+    max-width: 90%;
+    height: 80%;
+    margin: auto;
+    display: block;  
+    margin-top: 20%;   
 }
 
 }
