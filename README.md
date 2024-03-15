@@ -1,14 +1,31 @@
-<h1> PROJETO WIDE LOCATION </h1>
+<h1 align="center"> PROJETO WIDE LOCATION </h1>
  
-<img src="https://github.com/FelipeAz01/Wide-Coverage-Location/blob/main/img/Captura%20de%20tela%202024-02-21%20145402.png?raw=true"  />
-<img src="https://github.com/FelipeAz01/Wide-Coverage-Location/blob/main/img/mobile.png?raw=true" alt="Imag-Phone" width="400px"/>
 <br>
 <br>
 
-<h3> Este é o meu segundo projeto criado atraves do curso DevClub com referencia pelo figma. </h3>
+<h4  align="center"> Este é o meu segundo projeto criado atraves do curso DevClub com referencia pelo figma. </h4>
+<br>
 
-<h5> *testando a responsividade* </h5>
+<p align="center">
+  <img width="900" height="500" src="https://github.com/FelipeAz01/Wide-Coverage-Location/assets/147412994/64095afe-e6e6-44b5-bef7-02a2a97d88d9)">
 
-<h3> - As linguagens que foram utilizadas: </h3>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width="30px" /> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" width="30px" />
+
+<br>
+<h2 align="center"> Neste projetos foram utilizadas as seguintes linguagens:</h2>
+<ul>
+ <li>HTML;</li>
+ <li>CSS.</li>
+</ul>
+<br>
+<p> Projeto com 📱 Responsividade.</p>
+<br>
+<br>
+
+
+<div align="center"> 
+<a href="https://felipeaz01.github.io/Wide-Coverage-Location/">
+  <img   width="120px" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"  /> 
+</a>
+</div>
