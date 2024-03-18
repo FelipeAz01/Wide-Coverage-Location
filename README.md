@@ -3,7 +3,18 @@
 <br>
 <br>
 
-<h4  align="center"> Este é o meu segundo projeto criado atraves do curso DevClub com referencia pelo figma. </h4>
+<h2 align="center"> Segundo Projeto </h2>
+
+
+<p align="center">
+
+Olá! Recentemente trabalhei em um projeto inovador chamado Wide Care Location, proposto dentro da plataforma Dev Club e inspirado pelos ensinamentos do mentor Rodolfo Mori. O Wide Care Location é uma página inicial para uma locadora de carros, desenvolvida utilizando HTML e CSS com foco em responsividade.
+
+Neste projeto, pude aprimorar minhas habilidades em design e desenvolvimento web, garantindo uma experiência amigável e acessível em diferentes dispositivos. Estou sempre em busca de desafios que me permitam aplicar meu conhecimento e contribuir de forma significativa para projetos criativos e impactantes. </p>
+
+
+<br>
+<br>
 <br>
 
 <p align="center">
@@ -11,16 +22,15 @@
 
 </p>
 
+<br>
 
-<br>
-<h2 align="center"> Neste projetos foram utilizadas as seguintes linguagens:</h2>
-<ul>
- <li>HTML;</li>
- <li>CSS.</li>
-</ul>
-<br>
-<p> Projeto com 📱 Responsividade.</p>
-<br>
+
+<h3> Linguagens Utilizadas </h3>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
+
 <br>
 
 
